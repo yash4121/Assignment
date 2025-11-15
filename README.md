@@ -23,11 +23,11 @@ Fully built with Next.js (App Router) + React + TypeScript
 
 ##Installation and Setup
 
-git clone <your-repo-url>
-cd <project-folder>
-npm install
-GEMINI_API_KEY=YOUR_GEMINI_KEY_HERE
-npm run dev
+1) git clone repo url
+2) cd project folder
+3) npm install
+4) GEMINI_API_KEY=YOUR_GEMINI_KEY_HERE in .env file
+5) npm run dev
 
 #App runs at http://localhost:3000
 
